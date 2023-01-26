@@ -1,6 +1,6 @@
 [
     {
       "id": "PolicyEnginePluginsRepo",
-      "url": "https://raw.githubusercontent.com/armory-plugins/policy-engine-releases/master/plugins.json"
+      "url": "https://raw.githubusercontent.com/ChristineZhaoArmory/policy-engine-releases/master/plugins.json"
     }
 ]
